@@ -1,7 +1,11 @@
 # Docker-Dolos-Research
 The shell script downloads the platform oriented version of dolos and runs the dolos container with parameters - filename and language
 
-Supported architecture - linux/amd64 and linux/arm/v8 (APPLE M1)
+## All the Docker images are hosted here -
+MACOSX M1 - https://hub.docker.com/repository/docker/3zculprit/research_dolos_macosx_m1
+Linux - https://hub.docker.com/repository/docker/3zculprit/research_dolos_linux
+
+Supported architecture(for now) - linux/amd64 and linux/arm/v8 (APPLE M1)
 
 Dolos currently supports following languages -  javascript, python, java, c, c#, bash
 
