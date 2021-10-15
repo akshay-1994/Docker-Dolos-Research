@@ -24,3 +24,7 @@ Dolos currently supports following languages -  javascript, python, java, c, c#,
 
   Click on Continue to see the results -
   ![image](https://user-images.githubusercontent.com/14939604/137438636-d2778896-6793-4bfe-8611-96f08a95fc06.png)
+  
+  ## On MAC
+  ![image](https://user-images.githubusercontent.com/14939604/137439247-566890ec-8c5d-4cde-aad9-cbb83ca22bbe.png)
+
