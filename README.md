@@ -9,7 +9,7 @@ Supported architecture(for now) - linux/amd64 and linux/arm/v8 (APPLE M1)
 
 Dolos currently supports following languages -  javascript, python, java, c, c#, bash
 
-How to run -
+## How to run -
 
 1- git clone the repo
 2- chmod +x plagiarism.sh
