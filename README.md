@@ -28,3 +28,4 @@ Dolos currently supports following languages -  javascript, python, java, c, c#,
   ## On MAC
   ![image](https://user-images.githubusercontent.com/14939604/137439247-566890ec-8c5d-4cde-aad9-cbb83ca22bbe.png)
 
+  ## DON'T forget to remove your container after the work is done. This will also remove the localtunnel URL.
